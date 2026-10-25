@@ -1,4 +1,3 @@
-# awesome-route-drawing
 # Contributing to Awesome Route Drawing Tools
 
 Contributions are welcome! Please read this document to ensure your pull request is accepted quickly.
